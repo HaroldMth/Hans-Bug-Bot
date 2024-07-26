@@ -12,9 +12,9 @@ pkg yarn install
 termux-setup-storage
 cd /sdcard
 cd Download
-cd Xbugbotv4
+cd Hans-bug-bot
 yarn install
 npm start
 
-Note: dont sell or dont buy from others
-Credit: @DGXeon
+Note: This is completely free dont buy or sell 😉
+Credit: Hans Tech
