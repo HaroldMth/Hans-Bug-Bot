@@ -17,6 +17,40 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HANS BUG BOT Warning</title>
+    <style>
+        /* Add your custom styles here */
+        .announcement {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        h1 {
+            color: #ff0000;
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+    <div class="announcement">
+        <h1>⚠️ Important Notice: HANS BUG BOT ⚠️</h1>
+        <p>Created by Harold Mth, also known as HANS TECH, the <strong>HANS BUG BOT</strong> is a powerful tool for bug tracking and resolution.</p>
+        <p><em>However, proceed with extreme caution:</em> This bot can be <strong>very dangerous</strong> and may cause issues on low-quality phones.</p>
+        <p><strong>Warning:</strong> Misusing this bot could lead to crashes, data loss, or even permanent damage to your device.</p>
+        <p>Developers, use it responsibly and consider the impact on all users. If in doubt, seek professional advice.</p>
+        <p>Remember: With great power comes great responsibility! 🛡️🔒🚫</p>
+        <p>Additionally, misuse of the HANS BUG BOT may result in WhatsApp crashes and potential bans.</p>
+    </div>
+</body>
+</html>
+
 
 <p align="center">
   <a href="https://gihtub.com/HaroldMth">
