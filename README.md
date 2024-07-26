@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Passkey-md/Hans-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/Harold/Hans-bug-bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/HaroldMth/Hans-bug-bot?label=Fork&style=social">
     
     
   <a href="https://github.com/Passkey-md/Phantom-bug-bot/stargazers"> 
