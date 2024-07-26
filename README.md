@@ -1,5 +1,10 @@
 <h1 align="center"><STRONG>𝙷̷𝚊̷𝚗̷𝚜̷-𝙱̷𝚞̷𝚐̷-𝙱̷𝚘̷𝚝̷</STRONG></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HANS+BUG+BOT+WHATSAPP;BY+HANS+TECH)](https://git.io/typing-svg)
+
+
+
+
 <p align="center">
   <a href="https://youtube.com/@HansTech0">
     <img alt="Suhail-Md" height="400" src="https://github.com/HaroldMth/Hans-Bug-Bot/blob/master/Hans%20bug%20bot.jpeg">
