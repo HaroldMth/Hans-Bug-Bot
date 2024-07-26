@@ -1,8 +1,7 @@
 <h1 align="center"><STRONG>𝙷̷𝚊̷𝚗̷𝚜̷-𝙱̷𝚞̷𝚐̷-𝙱̷𝚘̷𝚝̷</STRONG></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HANS+BUG+BOT+WHATSAPP;BY+HANS+TECH)](https://git.io/typing-svg)
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HANS+BUG+BOT+BEST+WHATSAPP+BOT;CREATED+BY+HANS+TECH;BOT+DATE+27.07.2024" alt="Typing SVG" /></a>
+  </p>
 
 
 <p align="center">
