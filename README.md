@@ -1,17 +1,17 @@
 <h1 align="center">Phantom-bug-bot</h1>
 
 <p align="center">
-  <a href="https://gihtub.com/Passkey-md">
+  <a href="https://gihtub.com/HaroldMth">
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Passkey-md/Phantom-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/Passkey-md/Phantom-bug-bot?label=Fork&style=social">
+  <a href="https://github.com/Passkey-md/Hans-bug-bot/fork">
+    <img src="https://img.shields.io/github/forks/Harold/Hans-bug-bot?label=Fork&style=social">
     
     
   <a href="https://github.com/Passkey-md/Phantom-bug-bot/stargazers"> 
-    <img src="https://img.shields.io/github/stars/Passkey-md?style=social">
+    <img src="https://img.shields.io/github/stars/HaroldMth?style=social">
   </a>
 
 </p>
