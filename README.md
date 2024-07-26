@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <p> ###NOTE: THIS BOT IS FOR PRANKS AND FUN. PLEASE DO NOT HARM INNOCENT PEOPLE 😅</p>
+    <p> <strong>NOTE<strong>: THIS BOT IS FOR PRANKS AND FUN. PLEASE DO NOT HARM INNOCENT PEOPLE 😅</p>
 </body>
 </html>
 
@@ -22,21 +22,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HANS BUG BOT Warning</title>
-    <style>
-        /* Add your custom styles here */
-        .announcement {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-        h1 {
-            color: #ff0000;
-        }
-        /* Add more styles as needed */
-    </style>
+   
 </head>
 <body>
     <div class="announcement">
