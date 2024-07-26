@@ -1,4 +1,4 @@
-<h1 align="center">Hans-Bug-Bot</h1>
+<h1 align="center"><STRONG>𝙷̷𝚊̷𝚗̷𝚜̷-𝙱̷𝚞̷𝚐̷-𝙱̷𝚘̷𝚝̷</STRONG></h1>
 
 <p align="center">
   <a href="https://youtube.com/@HansTech0">
