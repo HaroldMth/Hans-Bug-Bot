@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Passkey-md/Hans-bug-bot/fork">
+  <a href="https://github.com/HaroldMth/Hans-bug-bot/fork">
     <img src="https://img.shields.io/github/forks/HaroldMth/Hans-bug-bot?label=Fork&style=social">
     
     
-  <a href="https://github.com/Passkey-md/Phantom-bug-bot/stargazers"> 
+  <a href="https://github.com/HaroldMth/Hans-bug-bot/stargazers"> 
     <img src="https://img.shields.io/github/stars/HaroldMth?style=social">
   </a>
 
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Passkey-md"><img title="Owner" src="https://img.shields.io/badge/Owner-Phantom-blue.svg?style=for-the-badge&logo=github" width="185px"
+<a href="https://github.com/Passkey-md"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS+TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
 
 </p>
 
