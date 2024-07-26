@@ -1,40 +1,40 @@
-//base by DGXeon x Phantom
-//YouTube: @phantom-hacks01
-//Instagram: phantom-hacks01
-//Telegram: t.me/Hackerzone25
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@phantom-hacks01
+//base by HaroldMth/HansTech
+//YouTube: @HansTech0
+//Instagram: NULL
+//Telegram: t.me/HansTech0
+//want more free bot ? subscribe to my youtube channel: https://youtube.com/@HansTech0
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
-global.ytname = "YT: phantom-hacks01"
+global.ownernomer = "237696900612"
+global.ownername = "*Hans+Tech"
+global.ytname = "YT: HansTech0"
 global.socialm = ""
-global.location = "India, Mizoram, Aizawl"
+global.location = "EARTH,AFRICA"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
-global.botname = 'xbug bot' //name of the bot
+global.ownernumber = '237696900612'  //creator number
+global.ownername = 'Harold+MTH' //owner name
+global.botname = 'Hans-Bug-bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Phantom'
-global.author = 'Hallo\n\nContact: 2348108395270'
+global.packname = 'Sticker By Hans Tech'
+global.author = 'Hallo\n\nContact: 237696900612'
 
 //console view/theme
-global.themeemoji = '😡'
-global.wm = "Phantom"
+global.themeemoji = '😎'
+global.wm = "Hans"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
+global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
