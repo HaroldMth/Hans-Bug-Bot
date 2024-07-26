@@ -1,4 +1,4 @@
-<h1 align="center">Phantom-bug-bot</h1>
+<h1 align="center">Hans-Bug-Bot</h1>
 
 <p align="center">
   <a href="https://gihtub.com/HaroldMth">
