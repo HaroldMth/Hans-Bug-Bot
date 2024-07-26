@@ -11,10 +11,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Prank Bot Announcement </title>
 </head>
 <body>
-    <p>NOTE: THIS BOT IS FOR PRANKS AND FUN. PLEASE DO NOT HARM INNOCENT PEOPLE 😅</p>
+    <p> ###NOTE: THIS BOT IS FOR PRANKS AND FUN. PLEASE DO NOT HARM INNOCENT PEOPLE 😅</p>
 </body>
 </html>
 
