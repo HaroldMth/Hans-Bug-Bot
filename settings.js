@@ -24,7 +24,7 @@ global.author = 'Hallo\n\nContact: 237696900612'
 
 //console view/theme
 global.themeemoji = '😎'
-global.wm = "Hans"
+global.wm = "Hans Tech😏"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
