@@ -61,7 +61,7 @@
 </p>
 
 
-### Termux Command guide 
+### TERMUX DEPLOY COMMAND GUIDE 🤪
 
  ```bash
 termux-setup-storage
@@ -77,8 +77,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Passkey-md/Phantom-bug-bot
-cd Phantom-bug-bot
+git clone https://github.com/Passkey-md/Hans-Bug-Bot
+cd Hans-Bug-Bot
 yarn install 
 npm i
 npm start
