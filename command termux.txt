@@ -1,3 +1,4 @@
+termux-setup-storage
 apt update
 apt upgrade
 pkg update && pkg upgrade
@@ -8,13 +9,11 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-pkg yarn install
-termux-setup-storage
-cd /sdcard
-cd Download
-cd Xbugbotv4
+git clone Https://HaroldMth/Hans-Bug-Bot
+cd Hans-Bug-Bot
+pkg install yarn
 yarn install
 npm start
 
-Note: dont sell or dont buy from others
-Credit: @DGXeon
+Note: This is completely free dont buy or sell 😉
+Credits: HansTech 🙃
