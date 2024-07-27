@@ -2231,16 +2231,17 @@ break
             case 'help':
             case 'alive':
             case '?':
-                let xeonmenuoh = ┏━━⟪ *Hans Bug Bot* ⟫━━⦿
-┃ ✗ Theme:- Hans-Bug-Bot
-┃ ✗ Owner:- ${pushname}
-┃ ✗ Plugins:- 413
-┃ ✗ Mem:- 27.31 GB/61.79 GB
-┗━━━━━━━━━━━━━━━⦿
- `Hello ${pushname}
+                let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+┏━━⟪ *Hans Bug Bot* ⟫━━⦿
+┃ ✗ Theme:- Hans-Bug-Bot
+┃ ✗ User:- ${pushname}
+┃ ✗ Plugins:- 413
+┃ ✗ Mem:- 27.31 GB/61.79 GB
+┗━━━━━━━━━━━━━━━⦿
+
 
 * ╰┈➤ MENU BUG NUMBER*
 ❏ xcrash 6286xxx
