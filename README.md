@@ -83,7 +83,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Passkey-md/Hans-Bug-Bot
+git clone https://github.com/HaroldMth/Hans-Bug-Bot
 cd Hans-Bug-Bot
 yarn install 
 npm i
