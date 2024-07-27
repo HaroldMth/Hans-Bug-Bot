@@ -61,7 +61,7 @@
 </p>
 
 
-<a href="https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O" target="_blank">
+<a href="https://wa.me/237696900612" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ CONTACT OWNER -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    <p align="center">
 <a href="https://github.com/HaroldMth"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
