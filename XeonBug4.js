@@ -2235,6 +2235,7 @@ break
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
 ┏━━⟪ *Hans Bug Bot* ⟫━━⦿
 ┃ ✗ Theme:- Hans-Bug-Bot
 ┃ ✗ User:- ${pushname}
@@ -2243,38 +2244,43 @@ ${readmore}
 ┗━━━━━━━━━━━━━━━⦿
 
 
-* ╰┈➤ MENU BUG NUMBER*
-❏ xcrash 6286xxx
-❏ xioscrash 6286xxx
-❏ iosgoogle 6286xxx
-❏ iosq 6286xxx
-❏ crotbug 6286xxx
+┌──『 ᴍᴇɴᴜ ʙᴜɢ ɴᴜᴍʙᴇʀ 』──❖  
+|  xᴄʀᴀꜱʜ 6286xxx  
+|  xɪᴏꜱᴄʀᴀꜱʜ 6286xxx 
+|  ɪᴏꜱɢᴏᴏɢʟᴇ 6286xxx 
+|  ɪᴏꜱQ 6286 
+|  ᴄʀᴏᴛʙᴜɢ 6286xxx 
+└──────────────◉
 
-*⊱ BUG DI TEMPAT*
-❏ xcrash2 ,5
-❏ xioscrash2 ,10
-❏ iosgoogle2 ,20
+┌──『 ᴄʀᴀꜱʜ ᴄᴏᴍᴍᴀɴᴅꜱ 』──❖
+| xᴄʀᴀꜱʜ2 ,5 
+| xɪᴏꜱᴄʀᴀꜱʜ2 ,10 
+| ɪᴏꜱɢᴏᴏɢʟᴇ2 ,20 
+└──────────────◉
+
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬ 
 
-" ╰┈➤ OWNER MENU*
-❏ getsession
-❏ deletesession
-❏ join
-❏ shutdown  
-❏ restart
-❏ autoread *[option]*
-❏ autotyping *[option]*
-❏ autorecording *[option]*
-❏ autorecordtyp *[option]*
-❏ autobio *[option]*
-❏ autoswview *[option]*
-❏ mode *[option]*
-❏ block
-❏ unblock 
-❏ backup
-❏ getcase
-❏ addowner
-❏ delowner
+┌──『ᴏᴡɴᴇʀ ᴍᴇɴᴜ』──❖ 
+┃ɢᴇᴛꜱᴇꜱꜱɪᴏɴ 
+┃ ᴅᴇʟᴇᴛᴇꜱᴇꜱꜱɪᴏɴ 
+┃ ᴊᴏɪɴ 
+┃ ꜱʜᴜᴛᴅᴏᴡɴ  
+┃ ʀᴇꜱᴛᴀʀᴛ 
+┃ ᴀᴜᴛᴏʀᴇᴀᴅ [ᴏᴘᴛɪᴏɴ] 
+┃ ᴀᴜᴛᴏᴛʏᴘɪɴɢ [ᴏᴘᴛɪᴏɴ] 
+┃ ᴀᴜᴛᴏʀᴇᴄᴏʀᴅɪɴɢ [ᴏᴘᴛɪᴏɴ] 
+┃ ᴀᴜᴛᴏʀᴇᴄᴏʀᴅᴛʏᴘ [ᴏᴘᴛɪᴏɴ] ,
+┃ ᴀᴜᴛᴏʙɪᴏ [ᴏᴘᴛɪᴏɴ] 
+┃ ᴀᴜᴛᴏꜱᴡᴠɪᴇᴡ [ᴏᴘᴛɪᴏɴ] 
+┃ᴍᴏᴅᴇ [ᴏᴘᴛɪᴏɴ] 
+┃ ʙʟᴏᴄᴋ 
+┃ ᴜɴʙʟᴏᴄᴋ  
+┃ ʙᴀᴄᴋᴜᴘ 
+┃ ɢᴇᴛᴄᴀꜱᴇ
+┃ ᴀᴅᴅᴏᴡɴᴇʀ 
+┃ ᴅᴇʟᴏᴡɴᴇʀ 
+└──────────────◉
+
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╰┈➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
