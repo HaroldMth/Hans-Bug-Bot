@@ -62,7 +62,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Passkey-md"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
+<a href="https://github.com/HaroldMth"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
 
 </p>
 
