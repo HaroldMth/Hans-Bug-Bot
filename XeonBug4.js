@@ -2231,7 +2231,13 @@ break
             case 'help':
             case 'alive':
             case '?':
-                let xeonmenuoh = `Hello ${pushname}
+                let xeonmenuoh = ┏━━⟪ *Hans Bug Bot* ⟫━━⦿
+┃ ✗ Theme:- Hans-Bug-Bot
+┃ ✗ Owner:- ${pushname}
+┃ ✗ Plugins:- 413
+┃ ✗ Mem:- 27.31 GB/61.79 GB
+┗━━━━━━━━━━━━━━━⦿
+ `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
