@@ -71,7 +71,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-  <a href="https://replit.com/@mibeharold2@Gmail.com/Hans-bug-bot?platform=repl"  > <img src="https://img.shields.io/badge/Deploy To Replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
+  <a href="https://replit.com/@mibeharold2/Hans-bug-bot?s=app?platform=repl"  > <img src="https://img.shields.io/badge/Deploy To Replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
 
 
 
