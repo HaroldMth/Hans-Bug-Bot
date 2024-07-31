@@ -44,7 +44,7 @@
 </body>
 </html>
 
-TO DOWNLOAD TERMUX, CLICK [HERE]()
+TO DOWNLOAD TERMUX, CLICK [HERE](https://www.mediafire.com/file/36upjlagvt66uig/Termux.apk/file)
 
 
 <p align="center">
