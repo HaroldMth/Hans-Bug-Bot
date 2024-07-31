@@ -44,6 +44,8 @@
 </body>
 </html>
 
+TO DOWNLOAD TERMUX, CLICK [HERE]()
+
 
 <p align="center">
   <a href="https://gihtub.com/HaroldMth">
