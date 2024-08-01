@@ -2233,7 +2233,7 @@ break
             case '?':
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
-${readmore}
+
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ┏━━⟪ *Hans Bug Bot* ⟫━━✸
@@ -2243,8 +2243,7 @@ ${readmore}
 ┃ ✯ Mem:- 27.31 GB/61.79 GB
 ┃ ✯ Uptime:- ${runtime(process.uptime())}
 ┗━━━━━━━━━━━━━━━✸
-
-
+${readmore}
 ┌─『 ᴍᴇɴᴜ ʙᴜɢ ɴᴜᴍʙᴇʀ 』─✵  
  ❏  xᴄʀᴀꜱʜ 6286xxx  
  ❏  xɪᴏꜱᴄʀᴀꜱʜ 6286xxx 
@@ -2361,8 +2360,8 @@ ${readmore}
  ❏ ytmp3
  ❏ ytmp4
  ❏ sound1 - sound161
-└──────────────☯
-
+└──────────────✸
+𝙱𝚈 𝙷𝙰𝙽𝚂 𝚃𝙴𝙲𝙷
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
@@ -2371,7 +2370,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://github.com/HaroldMth/Hans-Bug-Bot/blob/master/Hans.gif',
+                                thumbnailUrl: 'https://telegra.ph/file/aa3b4082d639bcbbf401a.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2389,7 +2388,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/f9d1ee41164cf212f2ac4.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/aa3b4082d639bcbbf401a.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
