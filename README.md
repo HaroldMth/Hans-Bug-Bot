@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@HansTech0">
-    <img alt="Suhail-Md" height="400" src="https://github.com/HaroldMth/Hans-Bug-Bot/blob/master/Hans%20bug%20bot.jpeg">
+    <img alt="HANS-TECH" height="400" src="https://github.com/HaroldMth/Hans-Bug-Bot/blob/master/Hans%20bug%20bot.jpeg">
   </a>
 </p>
 
