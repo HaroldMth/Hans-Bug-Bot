@@ -2387,7 +2387,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/f9d1ee41164cf212f2ac4.jpg',
+      thumbnailUrl: 'https://github.com/HaroldMth/Hans-Bug-Bot/blob/master/Hans.gif',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
