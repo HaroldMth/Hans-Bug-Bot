@@ -1,33 +1,32 @@
 //base by HaroldMth/HansTech
 //YouTube: @HansTech0
 //Instagram: NULL
-//Telegram: t.me/HansTech0
 //want more free bot ? subscribe to my youtube channel: https://youtube.com/@HansTech0
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
-global.ytname = "YT: HansTech0"
+global.ownernomer = "256788028745"
+global.ownername = "*Ramadhan Tech"
+global.ytname = "YT: RamahTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = '256788028745'  //creator number
+global.ownername = 'Ramadhan Yusuf' //owner name
+global.botname = 'Badbyol-Bug-bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 237696900612'
+global.packname = 'Sticker By Ramadhan Tech'
+global.author = 'Hallo\n\nContact: 256788028745'
 
 //console view/theme
-global.themeemoji = '😎'
-global.wm = "Hans Tech😏"
+global.themeemoji = '💫'
+global.wm = "Ramadhan Tech😏"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
+global.link = 'https://chat.whatsapp.com/IM57veJplECHwSiwI2iXaY'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -37,7 +36,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = false //auto view status/story
 
