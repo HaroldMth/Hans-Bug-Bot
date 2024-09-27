@@ -8,23 +8,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
+global.ownernomer = "17864445476,50941050126"
+global.ownername = "*MADARA & XPEDIART"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
-global.location = "EARTH,AFRICA"
+global.location = "EARTH,AFRICA,HAÏTI"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = '17864445476,50941050126'  //creator number
+global.ownername = 'MADAX✦PEDIART' //owner name
+global.botname = 'MADARA-BUG-BOT-V7' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 237696900612'
+global.author = 'Hallo\n\nContact: 17864445476,50941050126'
 
 //console view/theme
-global.themeemoji = '😎'
-global.wm = "Hans Tech😏"
+global.themeemoji = '🗿'
+global.wm = "MADAX☆PEDIART TCH😏"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
