@@ -1,36 +1,34 @@
-//base by HaroldMth/HansTech
-//YouTube: @HansTech0
+//base by LEO BROOKLYN 
+//YouTube: NULL
 //Instagram: NULL
-//Telegram: t.me/HansTech0
-//want more free bot ? subscribe to my youtube channel: https://youtube.com/@HansTech0
+//Telegram: t.me/LeonelValore
+//want more free bot ? PAY ME SHARP😂😅
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
-global.ytname = "YT: HansTech0"
+global.ownernomer = "237695973607"
+global.ownername = "*LEONEL TECH"
+global.ytname = "YT: .."
 global.socialm = ""
-global.location = "EARTH,AFRICA"
+global.location = "EARTH,AFRICA,AZIRE"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = '237695973607'  //creator number
+global.ownername = 'LEO BROOKLYN/owner name
+global.botname = 'LEO BROOKLYN' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 237696900612'
+global.packname = 'Sticker By LEO BROOKLYN'
+global.author = 'Hallo\n\nContact: 237695973607'
 
 //console view/theme
 global.themeemoji = '😎'
-global.wm = "Hans Tech😏"
+global.wm = "LEO BROOKLYN🥶😈"
 
-//theme link
-global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','.','#','&','😂']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
